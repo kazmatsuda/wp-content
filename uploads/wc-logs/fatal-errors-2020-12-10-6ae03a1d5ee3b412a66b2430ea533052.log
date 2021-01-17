@@ -1,0 +1,18 @@
+2020-12-10T05:34:47+00:00 CRITICAL Uncaught Error: Call to a member function is_visible() on null in /Users/kaz_matsuda/Local Sites/kyogaku20212/app/public/wp-content/themes/ShopperWooThemeFREE/woocommerce/content-product-archive.php:20
+Stack trace:
+#0 /Users/kaz_matsuda/Local Sites/kyogaku20212/app/public/wp-includes/template.php(732): require()
+#1 /Users/kaz_matsuda/Local Sites/kyogaku20212/app/public/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template('/Users/kaz_mats...', false)
+#2 /Users/kaz_matsuda/Local Sites/kyogaku20212/app/public/wp-content/plugins/woocommerce/includes/wc-deprecated-functions.php(332): wc_get_template_part('content', 'product-archive')
+#3 /Users/kaz_matsuda/Local Sites/kyogaku20212/app/public/wp-content/themes/ShopperWooThemeFREE/woocommerce/archive-product.php(121): woocommerce_get_template_part('content', 'product-archive')
+#4 /Users/kaz_matsuda/Local Sites/kyogaku20212/app/public/wp-includes/template-loader.php(106): include('/Users/kaz_mats...')
+#5 /Users/kaz_matsuda/Local Sites/kyog: /Users/kaz_matsuda/Local Sites/kyogaku20212/app/public/wp-content/themes/ShopperWooThemeFREE/woocommerce/content-product-archive.php の行20
+
+2020-12-10T05:35:02+00:00 CRITICAL Uncaught Error: Call to a member function is_visible() on null in /Users/kaz_matsuda/Local Sites/kyogaku20212/app/public/wp-content/themes/ShopperWooThemeFREE/woocommerce/content-product-archive.php:20
+Stack trace:
+#0 /Users/kaz_matsuda/Local Sites/kyogaku20212/app/public/wp-includes/template.php(732): require()
+#1 /Users/kaz_matsuda/Local Sites/kyogaku20212/app/public/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template('/Users/kaz_mats...', false)
+#2 /Users/kaz_matsuda/Local Sites/kyogaku20212/app/public/wp-content/plugins/woocommerce/includes/wc-deprecated-functions.php(332): wc_get_template_part('content', 'product-archive')
+#3 /Users/kaz_matsuda/Local Sites/kyogaku20212/app/public/wp-content/themes/ShopperWooThemeFREE/woocommerce/archive-product.php(121): woocommerce_get_template_part('content', 'product-archive')
+#4 /Users/kaz_matsuda/Local Sites/kyogaku20212/app/public/wp-includes/template-loader.php(106): include('/Users/kaz_mats...')
+#5 /Users/kaz_matsuda/Local Sites/kyog: /Users/kaz_matsuda/Local Sites/kyogaku20212/app/public/wp-content/themes/ShopperWooThemeFREE/woocommerce/content-product-archive.php の行20
+

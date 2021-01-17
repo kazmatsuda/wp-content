@@ -1,0 +1,680 @@
+2021-01-13T10:10:43+00:00 NOTICE sync_store :: posting data :: Array
+(
+    [store_post] => Array
+        (
+            [id] => 5fd17b90ece9c
+            [is_syncing] => 
+            [platform] => woocommerce
+            [list_id] => 2e531a6831
+            [name] => 和浩
+            [domain] => https://kyogaku.jp
+            [email_address] => matsuda@kyogaku.jp
+            [currency_code] => JPY
+            [money_format] => ¥
+            [primary_locale] => ja
+            [timezone] => Asia/Tokyo
+            [phone] => 0336791011
+            [address] => Array
+                (
+                    [address1] => 成増1-8-13-105
+                    [city] => 板橋区
+                    [province] => 東京都
+                    [postal_code] => 175-0094
+                    [country] => JP
+                    [country_code] => JP
+                    [phone] => 0336791011
+                    [company] => 和浩
+                )
+
+        )
+
+)
+
+2021-01-13T10:10:46+00:00 NOTICE sync_store :: posting data :: Array
+(
+    [store_post] => Array
+        (
+            [id] => 5fd17b90ece9c
+            [is_syncing] => 
+            [platform] => woocommerce
+            [list_id] => 2e531a6831
+            [name] => 和浩
+            [domain] => https://kyogaku.jp
+            [email_address] => matsuda@kyogaku.jp
+            [currency_code] => JPY
+            [money_format] => ¥
+            [primary_locale] => ja
+            [timezone] => Asia/Tokyo
+            [phone] => 0336791011
+            [address] => Array
+                (
+                    [address1] => 成増1-8-13-105
+                    [city] => 板橋区
+                    [province] => 東京都
+                    [postal_code] => 175-0094
+                    [country] => JP
+                    [country_code] => JP
+                    [phone] => 0336791011
+                    [company] => 和浩
+                )
+
+        )
+
+)
+
+2021-01-13T10:10:47+00:00 NOTICE sync_store :: posting data :: Array
+(
+    [store_post] => Array
+        (
+            [id] => 5fd17b90ece9c
+            [is_syncing] => 
+            [platform] => woocommerce
+            [list_id] => 2e531a6831
+            [name] => 和浩
+            [domain] => https://kyogaku.jp
+            [email_address] => matsuda@kyogaku.jp
+            [currency_code] => JPY
+            [money_format] => ¥
+            [primary_locale] => ja
+            [timezone] => Asia/Tokyo
+            [phone] => 0336791011
+            [address] => Array
+                (
+                    [address1] => 成増1-8-13-105
+                    [city] => 板橋区
+                    [province] => 東京都
+                    [postal_code] => 175-0094
+                    [country] => JP
+                    [country_code] => JP
+                    [phone] => 0336791011
+                    [company] => 和浩
+                )
+
+        )
+
+)
+
+2021-01-13T10:10:49+00:00 NOTICE mailchimp-woocommerce-sync.started :: Starting Sync :: Wed, Jan 13, 2021 10:10 AM
+2021-01-13T10:10:49+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Coupons queued :: page 1
+2021-01-13T10:11:14+00:00 NOTICE coupon_sync.completed :: Done with the coupon queueing.
+2021-01-13T10:11:14+00:00 NOTICE sync.full_sync_manager.queue :: Starting PRODUCTS queueing.
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Products queued :: page 1
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Products queued :: page 2
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Products queued :: page 3
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Products queued :: page 4
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1464
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1465
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1466
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1467
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1468
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1469
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1470
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1471
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1472
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1473
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1474
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1475
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1476
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1477
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1478
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1479
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1480
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1481
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1482
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1483
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1484
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1485
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1486
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1487
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1488
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1489
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1490
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1491
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1492
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1493
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1494
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1495
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1496
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1497
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1498
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1499
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1500
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1501
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1502
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1503
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1504
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1505
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1506
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1507
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1508
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1509
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1510
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1511
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1512
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1513
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1514
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1515
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1516
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1517
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1518
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1519
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1520
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1521
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1522
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1523
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1524
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1525
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1526
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1527
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1528
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1529
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1530
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1531
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1532
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1533
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1534
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1535
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1536
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1537
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1538
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1539
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1540
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1541
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1542
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1543
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1544
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1545
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1546
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1547
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1548
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1549
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1550
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1551
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1552
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1553
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1554
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1555
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1556
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1557
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1558
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1559
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1560
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1561
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1562
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1563
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1564
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1565
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1566
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1567
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1568
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1569
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1570
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1571
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1572
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1573
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1574
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1575
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1576
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1577
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1578
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1579
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1580
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1581
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1582
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1583
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1584
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1585
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1586
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1587
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1588
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1589
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1590
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1591
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1592
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1593
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1594
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1595
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1596
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1597
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1598
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1599
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1600
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1601
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1602
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1603
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1604
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1605
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1606
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1607
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1608
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1609
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1610
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1611
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1612
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1613
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1614
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1615
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1616
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1617
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1618
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1619
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1620
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1621
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1622
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1623
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1624
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1625
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1626
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1627
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1628
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1629
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1630
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1631
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1632
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1633
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1634
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1635
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1636
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1637
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1638
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1639
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1640
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1641
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1642
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1643
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1644
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1645
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1646
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1647
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1648
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1649
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1650
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1651
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1652
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1653
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1654
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1655
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1656
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1657
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1658
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1659
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1660
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1661
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1662
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1663
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1664
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1665
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1666
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1667
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1668
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1669
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1670
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1671
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1672
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1673
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1674
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1675
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1676
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1677
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1678
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1679
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1680
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1681
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1682
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1683
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1684
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1685
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1686
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1687
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1688
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1689
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1690
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1691
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1692
+2021-01-13T10:11:14+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1693
+2021-01-13T10:11:15+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1694
+2021-01-13T10:11:15+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1695
+2021-01-13T10:11:15+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1696
+2021-01-13T10:11:15+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1697
+2021-01-13T10:11:15+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1698
+2021-01-13T10:11:15+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1699
+2021-01-13T10:11:15+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1700
+2021-01-13T10:11:15+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1701
+2021-01-13T10:11:15+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1702
+2021-01-13T10:11:15+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1703
+2021-01-13T10:11:15+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1808
+2021-01-13T10:11:15+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1832
+2021-01-13T10:11:15+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1834
+2021-01-13T10:11:15+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1883
+2021-01-13T10:11:15+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1902
+2021-01-13T10:11:15+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1903
+2021-01-13T10:11:15+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1906
+2021-01-13T10:11:15+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1907
+2021-01-13T10:11:15+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1908
+2021-01-13T10:11:15+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1909
+2021-01-13T10:11:15+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1910
+2021-01-13T10:11:15+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1911
+2021-01-13T10:11:15+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1912
+2021-01-13T10:11:15+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1913
+2021-01-13T10:11:15+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1914
+2021-01-13T10:11:15+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1915
+2021-01-13T10:11:15+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1916
+2021-01-13T10:11:15+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1917
+2021-01-13T10:11:15+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1918
+2021-01-13T10:11:15+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1920
+2021-01-13T10:11:15+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1921
+2021-01-13T10:11:15+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1934
+2021-01-13T10:11:15+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1935
+2021-01-13T10:11:15+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1936
+2021-01-13T10:11:15+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1937
+2021-01-13T10:11:15+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1938
+2021-01-13T10:11:15+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1939
+2021-01-13T10:11:15+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1940
+2021-01-13T10:11:15+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1941
+2021-01-13T10:11:15+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1943
+2021-01-13T10:11:15+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1944
+2021-01-13T10:11:15+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1945
+2021-01-13T10:11:15+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1946
+2021-01-13T10:11:15+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1947
+2021-01-13T10:11:15+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1948
+2021-01-13T10:11:15+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1949
+2021-01-13T10:11:15+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1950
+2021-01-13T10:11:15+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1951
+2021-01-13T10:11:15+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1952
+2021-01-13T10:11:15+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1953
+2021-01-13T10:11:15+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1954
+2021-01-13T10:11:15+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1955
+2021-01-13T10:11:15+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1956
+2021-01-13T10:11:15+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1957
+2021-01-13T10:11:15+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1958
+2021-01-13T10:11:15+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1964
+2021-01-13T10:11:17+00:00 NOTICE product_sync.completed :: Done with the product queuing
+2021-01-13T10:11:17+00:00 NOTICE product_submit.success :: addStoreProduct :: #1464
+2021-01-13T10:11:18+00:00 NOTICE product_submit.success :: addStoreProduct :: #1465
+2021-01-13T10:11:18+00:00 NOTICE product_submit.success :: addStoreProduct :: #1466
+2021-01-13T10:11:19+00:00 NOTICE product_submit.success :: addStoreProduct :: #1467
+2021-01-13T10:11:19+00:00 NOTICE product_submit.success :: addStoreProduct :: #1468
+2021-01-13T10:11:20+00:00 NOTICE product_submit.success :: addStoreProduct :: #1469
+2021-01-13T10:11:20+00:00 NOTICE product_submit.success :: addStoreProduct :: #1470
+2021-01-13T10:11:21+00:00 NOTICE product_submit.success :: addStoreProduct :: #1471
+2021-01-13T10:11:21+00:00 NOTICE product_submit.success :: addStoreProduct :: #1472
+2021-01-13T10:11:22+00:00 NOTICE product_submit.success :: addStoreProduct :: #1473
+2021-01-13T10:11:22+00:00 NOTICE product_submit.success :: addStoreProduct :: #1474
+2021-01-13T10:11:23+00:00 NOTICE product_submit.success :: addStoreProduct :: #1475
+2021-01-13T10:11:24+00:00 NOTICE product_submit.success :: addStoreProduct :: #1476
+2021-01-13T10:11:24+00:00 NOTICE product_submit.success :: addStoreProduct :: #1477
+2021-01-13T10:11:24+00:00 NOTICE product_submit.success :: addStoreProduct :: #1478
+2021-01-13T10:11:25+00:00 NOTICE product_submit.success :: addStoreProduct :: #1479
+2021-01-13T10:11:25+00:00 NOTICE product_submit.success :: addStoreProduct :: #1480
+2021-01-13T10:11:26+00:00 NOTICE product_submit.success :: addStoreProduct :: #1481
+2021-01-13T10:11:26+00:00 NOTICE product_submit.success :: addStoreProduct :: #1482
+2021-01-13T10:11:27+00:00 NOTICE product_submit.success :: addStoreProduct :: #1483
+2021-01-13T10:11:28+00:00 NOTICE product_submit.success :: addStoreProduct :: #1484
+2021-01-13T10:11:28+00:00 NOTICE product_submit.success :: addStoreProduct :: #1485
+2021-01-13T10:11:29+00:00 NOTICE product_submit.success :: addStoreProduct :: #1486
+2021-01-13T10:11:29+00:00 NOTICE product_submit.success :: addStoreProduct :: #1487
+2021-01-13T10:11:30+00:00 NOTICE product_submit.success :: addStoreProduct :: #1488
+2021-01-13T10:11:30+00:00 NOTICE product_submit.success :: addStoreProduct :: #1489
+2021-01-13T10:11:31+00:00 NOTICE product_submit.success :: addStoreProduct :: #1490
+2021-01-13T10:11:31+00:00 NOTICE product_submit.success :: addStoreProduct :: #1491
+2021-01-13T10:11:32+00:00 NOTICE product_submit.success :: addStoreProduct :: #1492
+2021-01-13T10:11:32+00:00 NOTICE product_submit.success :: addStoreProduct :: #1493
+2021-01-13T10:11:33+00:00 NOTICE product_submit.success :: addStoreProduct :: #1494
+2021-01-13T10:11:33+00:00 NOTICE product_submit.success :: addStoreProduct :: #1495
+2021-01-13T10:11:34+00:00 NOTICE product_submit.success :: addStoreProduct :: #1496
+2021-01-13T10:11:34+00:00 NOTICE product_submit.success :: addStoreProduct :: #1497
+2021-01-13T10:11:35+00:00 NOTICE product_submit.success :: addStoreProduct :: #1498
+2021-01-13T10:11:35+00:00 NOTICE product_submit.success :: addStoreProduct :: #1499
+2021-01-13T10:11:36+00:00 NOTICE product_submit.success :: addStoreProduct :: #1500
+2021-01-13T10:11:36+00:00 NOTICE product_submit.success :: addStoreProduct :: #1501
+2021-01-13T10:11:37+00:00 NOTICE product_submit.success :: addStoreProduct :: #1502
+2021-01-13T10:11:38+00:00 NOTICE product_submit.success :: addStoreProduct :: #1503
+2021-01-13T10:11:38+00:00 NOTICE product_submit.success :: addStoreProduct :: #1504
+2021-01-13T10:11:39+00:00 NOTICE product_submit.success :: addStoreProduct :: #1505
+2021-01-13T10:11:39+00:00 NOTICE product_submit.success :: addStoreProduct :: #1506
+2021-01-13T10:11:40+00:00 NOTICE product_submit.success :: addStoreProduct :: #1507
+2021-01-13T10:11:40+00:00 NOTICE product_submit.success :: addStoreProduct :: #1508
+2021-01-13T10:11:52+00:00 NOTICE product_submit.success :: addStoreProduct :: #1509
+2021-01-13T10:11:53+00:00 NOTICE product_submit.success :: addStoreProduct :: #1510
+2021-01-13T10:11:53+00:00 NOTICE product_submit.success :: addStoreProduct :: #1511
+2021-01-13T10:11:54+00:00 NOTICE product_submit.success :: addStoreProduct :: #1512
+2021-01-13T10:11:54+00:00 NOTICE product_submit.success :: addStoreProduct :: #1513
+2021-01-13T10:11:55+00:00 NOTICE product_submit.success :: addStoreProduct :: #1514
+2021-01-13T10:11:55+00:00 NOTICE product_submit.success :: addStoreProduct :: #1515
+2021-01-13T10:11:56+00:00 NOTICE product_submit.success :: addStoreProduct :: #1516
+2021-01-13T10:11:56+00:00 NOTICE product_submit.success :: addStoreProduct :: #1517
+2021-01-13T10:11:57+00:00 NOTICE product_submit.success :: addStoreProduct :: #1518
+2021-01-13T10:11:57+00:00 NOTICE product_submit.success :: addStoreProduct :: #1519
+2021-01-13T10:11:58+00:00 NOTICE product_submit.success :: addStoreProduct :: #1520
+2021-01-13T10:11:58+00:00 NOTICE product_submit.success :: addStoreProduct :: #1521
+2021-01-13T10:11:59+00:00 NOTICE product_submit.success :: addStoreProduct :: #1522
+2021-01-13T10:11:59+00:00 NOTICE product_submit.success :: addStoreProduct :: #1523
+2021-01-13T10:11:59+00:00 NOTICE product_submit.success :: addStoreProduct :: #1524
+2021-01-13T10:12:00+00:00 NOTICE product_submit.success :: addStoreProduct :: #1525
+2021-01-13T10:12:00+00:00 NOTICE product_submit.success :: addStoreProduct :: #1526
+2021-01-13T10:12:01+00:00 NOTICE product_submit.success :: addStoreProduct :: #1527
+2021-01-13T10:12:01+00:00 NOTICE product_submit.success :: addStoreProduct :: #1528
+2021-01-13T10:12:02+00:00 NOTICE product_submit.success :: addStoreProduct :: #1529
+2021-01-13T10:12:02+00:00 NOTICE product_submit.success :: addStoreProduct :: #1530
+2021-01-13T10:12:03+00:00 NOTICE product_submit.success :: addStoreProduct :: #1531
+2021-01-13T10:12:03+00:00 NOTICE product_submit.success :: addStoreProduct :: #1532
+2021-01-13T10:12:04+00:00 NOTICE product_submit.success :: addStoreProduct :: #1533
+2021-01-13T10:12:04+00:00 NOTICE product_submit.success :: addStoreProduct :: #1534
+2021-01-13T10:12:05+00:00 NOTICE product_submit.success :: addStoreProduct :: #1535
+2021-01-13T10:12:05+00:00 NOTICE product_submit.success :: addStoreProduct :: #1536
+2021-01-13T10:12:06+00:00 NOTICE product_submit.success :: addStoreProduct :: #1537
+2021-01-13T10:12:06+00:00 NOTICE product_submit.success :: addStoreProduct :: #1538
+2021-01-13T10:12:07+00:00 NOTICE product_submit.success :: addStoreProduct :: #1539
+2021-01-13T10:12:07+00:00 NOTICE product_submit.success :: addStoreProduct :: #1540
+2021-01-13T10:12:08+00:00 NOTICE product_submit.success :: addStoreProduct :: #1541
+2021-01-13T10:12:08+00:00 NOTICE product_submit.success :: addStoreProduct :: #1542
+2021-01-13T10:12:09+00:00 NOTICE product_submit.success :: addStoreProduct :: #1543
+2021-01-13T10:12:09+00:00 NOTICE product_submit.success :: addStoreProduct :: #1544
+2021-01-13T10:12:10+00:00 NOTICE product_submit.success :: addStoreProduct :: #1545
+2021-01-13T10:12:10+00:00 NOTICE product_submit.success :: addStoreProduct :: #1546
+2021-01-13T10:12:11+00:00 NOTICE product_submit.success :: addStoreProduct :: #1547
+2021-01-13T10:12:11+00:00 NOTICE product_submit.success :: addStoreProduct :: #1548
+2021-01-13T10:12:12+00:00 NOTICE product_submit.success :: addStoreProduct :: #1549
+2021-01-13T10:12:12+00:00 NOTICE product_submit.success :: addStoreProduct :: #1550
+2021-01-13T10:12:13+00:00 NOTICE product_submit.success :: addStoreProduct :: #1551
+2021-01-13T10:12:13+00:00 NOTICE product_submit.success :: addStoreProduct :: #1552
+2021-01-13T10:12:14+00:00 NOTICE product_submit.success :: addStoreProduct :: #1577
+2021-01-13T10:12:14+00:00 NOTICE product_submit.success :: addStoreProduct :: #1553
+2021-01-13T10:12:14+00:00 NOTICE product_submit.success :: addStoreProduct :: #1578
+2021-01-13T10:12:14+00:00 NOTICE product_submit.success :: addStoreProduct :: #1554
+2021-01-13T10:12:15+00:00 NOTICE product_submit.success :: addStoreProduct :: #1579
+2021-01-13T10:12:15+00:00 NOTICE product_submit.success :: addStoreProduct :: #1555
+2021-01-13T10:12:15+00:00 NOTICE product_submit.success :: addStoreProduct :: #1580
+2021-01-13T10:12:15+00:00 NOTICE product_submit.success :: addStoreProduct :: #1556
+2021-01-13T10:12:16+00:00 NOTICE product_submit.success :: addStoreProduct :: #1581
+2021-01-13T10:12:16+00:00 NOTICE product_submit.success :: addStoreProduct :: #1582
+2021-01-13T10:12:16+00:00 NOTICE product_submit.success :: addStoreProduct :: #1557
+2021-01-13T10:12:17+00:00 NOTICE product_submit.success :: addStoreProduct :: #1583
+2021-01-13T10:12:17+00:00 NOTICE product_submit.success :: addStoreProduct :: #1558
+2021-01-13T10:12:17+00:00 NOTICE product_submit.success :: addStoreProduct :: #1559
+2021-01-13T10:12:17+00:00 NOTICE product_submit.success :: addStoreProduct :: #1584
+2021-01-13T10:12:18+00:00 NOTICE product_submit.success :: addStoreProduct :: #1560
+2021-01-13T10:12:18+00:00 NOTICE product_submit.success :: addStoreProduct :: #1585
+2021-01-13T10:12:18+00:00 NOTICE product_submit.success :: addStoreProduct :: #1561
+2021-01-13T10:12:18+00:00 NOTICE product_submit.success :: addStoreProduct :: #1586
+2021-01-13T10:12:19+00:00 NOTICE product_submit.success :: addStoreProduct :: #1562
+2021-01-13T10:12:19+00:00 NOTICE product_submit.success :: addStoreProduct :: #1587
+2021-01-13T10:12:19+00:00 NOTICE product_submit.success :: addStoreProduct :: #1563
+2021-01-13T10:12:19+00:00 NOTICE product_submit.success :: addStoreProduct :: #1588
+2021-01-13T10:12:20+00:00 NOTICE product_submit.success :: addStoreProduct :: #1564
+2021-01-13T10:12:20+00:00 NOTICE product_submit.success :: addStoreProduct :: #1589
+2021-01-13T10:12:20+00:00 NOTICE product_submit.success :: addStoreProduct :: #1565
+2021-01-13T10:12:21+00:00 NOTICE product_submit.success :: addStoreProduct :: #1566
+2021-01-13T10:12:21+00:00 NOTICE product_submit.success :: addStoreProduct :: #1567
+2021-01-13T10:12:22+00:00 NOTICE product_submit.success :: addStoreProduct :: #1568
+2021-01-13T10:12:22+00:00 NOTICE product_submit.success :: addStoreProduct :: #1569
+2021-01-13T10:12:23+00:00 NOTICE product_submit.success :: addStoreProduct :: #1570
+2021-01-13T10:12:23+00:00 NOTICE product_submit.success :: addStoreProduct :: #1571
+2021-01-13T10:12:24+00:00 NOTICE product_submit.success :: addStoreProduct :: #1572
+2021-01-13T10:12:24+00:00 NOTICE product_submit.success :: addStoreProduct :: #1573
+2021-01-13T10:12:25+00:00 NOTICE product_submit.success :: addStoreProduct :: #1574
+2021-01-13T10:12:25+00:00 NOTICE product_submit.success :: addStoreProduct :: #1575
+2021-01-13T10:12:26+00:00 NOTICE product_submit.success :: addStoreProduct :: #1576
+2021-01-13T10:12:26+00:00 NOTICE product_submit.success :: addStoreProduct :: #1590
+2021-01-13T10:12:27+00:00 NOTICE product_submit.success :: addStoreProduct :: #1591
+2021-01-13T10:12:27+00:00 NOTICE product_submit.success :: addStoreProduct :: #1592
+2021-01-13T10:12:28+00:00 NOTICE product_submit.success :: addStoreProduct :: #1593
+2021-01-13T10:12:29+00:00 NOTICE product_submit.success :: addStoreProduct :: #1594
+2021-01-13T10:12:29+00:00 NOTICE product_submit.success :: addStoreProduct :: #1595
+2021-01-13T10:12:30+00:00 NOTICE product_submit.success :: addStoreProduct :: #1596
+2021-01-13T10:12:30+00:00 NOTICE product_submit.success :: addStoreProduct :: #1597
+2021-01-13T10:12:31+00:00 NOTICE product_submit.success :: addStoreProduct :: #1598
+2021-01-13T10:12:31+00:00 NOTICE product_submit.success :: addStoreProduct :: #1599
+2021-01-13T10:12:32+00:00 NOTICE product_submit.success :: addStoreProduct :: #1600
+2021-01-13T10:12:32+00:00 NOTICE product_submit.success :: addStoreProduct :: #1601
+2021-01-13T10:12:33+00:00 NOTICE product_submit.success :: addStoreProduct :: #1602
+2021-01-13T10:12:33+00:00 NOTICE product_submit.success :: addStoreProduct :: #1603
+2021-01-13T10:12:34+00:00 NOTICE product_submit.success :: addStoreProduct :: #1604
+2021-01-13T10:12:34+00:00 NOTICE product_submit.success :: addStoreProduct :: #1605
+2021-01-13T10:12:35+00:00 NOTICE product_submit.success :: addStoreProduct :: #1606
+2021-01-13T10:12:35+00:00 NOTICE product_submit.success :: addStoreProduct :: #1607
+2021-01-13T10:12:36+00:00 NOTICE product_submit.success :: addStoreProduct :: #1608
+2021-01-13T10:12:36+00:00 NOTICE product_submit.success :: addStoreProduct :: #1609
+2021-01-13T10:12:37+00:00 NOTICE product_submit.success :: addStoreProduct :: #1610
+2021-01-13T10:12:37+00:00 NOTICE product_submit.success :: addStoreProduct :: #1611
+2021-01-13T10:12:38+00:00 NOTICE product_submit.success :: addStoreProduct :: #1612
+2021-01-13T10:12:38+00:00 NOTICE product_submit.success :: addStoreProduct :: #1613
+2021-01-13T10:12:39+00:00 NOTICE product_submit.success :: addStoreProduct :: #1614
+2021-01-13T10:12:39+00:00 NOTICE product_submit.success :: addStoreProduct :: #1615
+2021-01-13T10:12:40+00:00 NOTICE product_submit.success :: addStoreProduct :: #1616
+2021-01-13T10:12:40+00:00 NOTICE product_submit.success :: addStoreProduct :: #1617
+2021-01-13T10:12:41+00:00 NOTICE product_submit.success :: addStoreProduct :: #1618
+2021-01-13T10:12:41+00:00 NOTICE product_submit.success :: addStoreProduct :: #1619
+2021-01-13T10:12:42+00:00 NOTICE product_submit.success :: addStoreProduct :: #1620
+2021-01-13T10:14:09+00:00 NOTICE product_submit.success :: addStoreProduct :: #1621
+2021-01-13T10:14:10+00:00 NOTICE product_submit.success :: addStoreProduct :: #1622
+2021-01-13T10:14:10+00:00 NOTICE product_submit.success :: addStoreProduct :: #1623
+2021-01-13T10:14:11+00:00 NOTICE product_submit.success :: addStoreProduct :: #1624
+2021-01-13T10:14:11+00:00 NOTICE product_submit.success :: addStoreProduct :: #1625
+2021-01-13T10:14:12+00:00 NOTICE product_submit.success :: addStoreProduct :: #1626
+2021-01-13T10:14:12+00:00 NOTICE product_submit.success :: addStoreProduct :: #1627
+2021-01-13T10:14:13+00:00 NOTICE product_submit.success :: addStoreProduct :: #1628
+2021-01-13T10:14:13+00:00 NOTICE product_submit.success :: addStoreProduct :: #1629
+2021-01-13T10:14:14+00:00 NOTICE product_submit.success :: addStoreProduct :: #1630
+2021-01-13T10:14:14+00:00 NOTICE product_submit.success :: addStoreProduct :: #1631
+2021-01-13T10:14:15+00:00 NOTICE product_submit.success :: addStoreProduct :: #1632
+2021-01-13T10:14:15+00:00 NOTICE product_submit.success :: addStoreProduct :: #1633
+2021-01-13T10:14:16+00:00 NOTICE product_submit.success :: addStoreProduct :: #1634
+2021-01-13T10:14:16+00:00 NOTICE product_submit.success :: addStoreProduct :: #1635
+2021-01-13T10:14:17+00:00 NOTICE product_submit.success :: addStoreProduct :: #1636
+2021-01-13T10:14:17+00:00 NOTICE product_submit.success :: addStoreProduct :: #1637
+2021-01-13T10:14:18+00:00 NOTICE product_submit.success :: addStoreProduct :: #1638
+2021-01-13T10:14:18+00:00 NOTICE product_submit.success :: addStoreProduct :: #1639
+2021-01-13T10:14:19+00:00 NOTICE product_submit.success :: addStoreProduct :: #1640
+2021-01-13T10:14:19+00:00 NOTICE product_submit.success :: addStoreProduct :: #1641
+2021-01-13T10:14:20+00:00 NOTICE product_submit.success :: addStoreProduct :: #1642
+2021-01-13T10:14:20+00:00 NOTICE product_submit.success :: addStoreProduct :: #1643
+2021-01-13T10:14:21+00:00 NOTICE product_submit.success :: addStoreProduct :: #1644
+2021-01-13T10:14:21+00:00 NOTICE product_submit.success :: addStoreProduct :: #1645
+2021-01-13T10:14:22+00:00 NOTICE product_submit.success :: addStoreProduct :: #1646
+2021-01-13T10:14:22+00:00 NOTICE product_submit.success :: addStoreProduct :: #1647
+2021-01-13T10:14:23+00:00 NOTICE product_submit.success :: addStoreProduct :: #1648
+2021-01-13T10:14:23+00:00 NOTICE product_submit.success :: addStoreProduct :: #1649
+2021-01-13T10:14:24+00:00 NOTICE product_submit.success :: addStoreProduct :: #1650
+2021-01-13T10:14:24+00:00 NOTICE product_submit.success :: addStoreProduct :: #1651
+2021-01-13T10:14:25+00:00 NOTICE product_submit.success :: addStoreProduct :: #1652
+2021-01-13T10:14:25+00:00 NOTICE product_submit.success :: addStoreProduct :: #1653
+2021-01-13T10:14:26+00:00 NOTICE product_submit.success :: addStoreProduct :: #1654
+2021-01-13T10:14:26+00:00 NOTICE product_submit.success :: addStoreProduct :: #1655
+2021-01-13T10:14:27+00:00 NOTICE product_submit.success :: addStoreProduct :: #1656
+2021-01-13T10:14:27+00:00 NOTICE product_submit.success :: addStoreProduct :: #1657
+2021-01-13T10:14:28+00:00 NOTICE product_submit.success :: addStoreProduct :: #1658
+2021-01-13T10:14:28+00:00 NOTICE product_submit.success :: addStoreProduct :: #1659
+2021-01-13T10:14:29+00:00 NOTICE product_submit.success :: addStoreProduct :: #1660
+2021-01-13T10:14:29+00:00 NOTICE product_submit.success :: addStoreProduct :: #1661
+2021-01-13T10:14:30+00:00 NOTICE product_submit.success :: addStoreProduct :: #1662
+2021-01-13T10:14:30+00:00 NOTICE product_submit.success :: addStoreProduct :: #1663
+2021-01-13T10:14:31+00:00 NOTICE product_submit.success :: addStoreProduct :: #1664
+2021-01-13T10:14:31+00:00 NOTICE product_submit.success :: addStoreProduct :: #1665
+2021-01-13T10:14:32+00:00 NOTICE product_submit.success :: addStoreProduct :: #1666
+2021-01-13T10:14:32+00:00 NOTICE product_submit.success :: addStoreProduct :: #1667
+2021-01-13T10:14:33+00:00 NOTICE product_submit.success :: addStoreProduct :: #1668
+2021-01-13T10:14:33+00:00 NOTICE product_submit.success :: addStoreProduct :: #1669
+2021-01-13T10:14:34+00:00 NOTICE product_submit.success :: addStoreProduct :: #1670
+2021-01-13T10:14:34+00:00 NOTICE product_submit.success :: addStoreProduct :: #1671
+2021-01-13T10:14:35+00:00 NOTICE product_submit.success :: addStoreProduct :: #1672
+2021-01-13T10:14:35+00:00 NOTICE product_submit.success :: addStoreProduct :: #1673
+2021-01-13T10:14:36+00:00 NOTICE product_submit.success :: addStoreProduct :: #1674
+2021-01-13T10:14:36+00:00 NOTICE product_submit.success :: addStoreProduct :: #1675
+2021-01-13T10:14:37+00:00 NOTICE product_submit.success :: addStoreProduct :: #1676
+2021-01-13T10:14:37+00:00 NOTICE product_submit.success :: addStoreProduct :: #1677
+2021-01-13T10:14:45+00:00 NOTICE product_submit.success :: addStoreProduct :: #1678
+2021-01-13T10:14:46+00:00 NOTICE product_submit.success :: addStoreProduct :: #1679
+2021-01-13T10:14:46+00:00 NOTICE product_submit.success :: addStoreProduct :: #1680
+2021-01-13T10:14:47+00:00 NOTICE product_submit.success :: addStoreProduct :: #1681
+2021-01-13T10:14:47+00:00 NOTICE product_submit.success :: addStoreProduct :: #1682
+2021-01-13T10:14:47+00:00 NOTICE product_submit.success :: addStoreProduct :: #1683
+2021-01-13T10:14:48+00:00 NOTICE product_submit.success :: addStoreProduct :: #1684
+2021-01-13T10:14:48+00:00 NOTICE product_submit.success :: addStoreProduct :: #1685
+2021-01-13T10:14:49+00:00 NOTICE product_submit.success :: addStoreProduct :: #1686
+2021-01-13T10:14:49+00:00 NOTICE product_submit.success :: addStoreProduct :: #1687
+2021-01-13T10:14:50+00:00 NOTICE product_submit.success :: addStoreProduct :: #1688
+2021-01-13T10:14:50+00:00 NOTICE product_submit.success :: addStoreProduct :: #1689
+2021-01-13T10:14:51+00:00 NOTICE product_submit.success :: addStoreProduct :: #1690
+2021-01-13T10:14:51+00:00 NOTICE product_submit.success :: addStoreProduct :: #1691
+2021-01-13T10:14:51+00:00 NOTICE product_submit.success :: addStoreProduct :: #1692
+2021-01-13T10:14:52+00:00 NOTICE product_submit.success :: addStoreProduct :: #1693
+2021-01-13T10:14:52+00:00 NOTICE product_submit.success :: addStoreProduct :: #1694
+2021-01-13T10:14:53+00:00 NOTICE product_submit.success :: addStoreProduct :: #1695
+2021-01-13T10:14:53+00:00 NOTICE product_submit.success :: addStoreProduct :: #1696
+2021-01-13T10:14:54+00:00 NOTICE product_submit.success :: addStoreProduct :: #1697
+2021-01-13T10:14:54+00:00 NOTICE product_submit.success :: addStoreProduct :: #1698
+2021-01-13T10:14:55+00:00 NOTICE product_submit.success :: addStoreProduct :: #1699
+2021-01-13T10:14:55+00:00 NOTICE product_submit.warning :: addStoreProduct :: post #1700 was invalid.
+2021-01-13T10:14:55+00:00 NOTICE product_submit.success :: addStoreProduct :: #1701
+2021-01-13T10:14:56+00:00 NOTICE product_submit.success :: addStoreProduct :: #1702
+2021-01-13T10:14:56+00:00 NOTICE product_submit.warning :: addStoreProduct :: post #1703 was invalid.
+2021-01-13T10:14:56+00:00 NOTICE product_submit.success :: addStoreProduct :: #1808
+2021-01-13T10:14:57+00:00 NOTICE product_submit.success :: addStoreProduct :: #1832
+2021-01-13T10:14:57+00:00 NOTICE product_submit.success :: addStoreProduct :: #1834
+2021-01-13T10:14:58+00:00 NOTICE product_submit.success :: addStoreProduct :: #1883
+2021-01-13T10:14:58+00:00 NOTICE product_submit.success :: addStoreProduct :: #1902
+2021-01-13T10:14:59+00:00 NOTICE product_submit.success :: addStoreProduct :: #1903
+2021-01-13T10:14:59+00:00 NOTICE product_submit.success :: addStoreProduct :: #1906
+2021-01-13T10:15:00+00:00 NOTICE product_submit.success :: addStoreProduct :: #1907
+2021-01-13T10:15:00+00:00 NOTICE product_submit.success :: addStoreProduct :: #1908
+2021-01-13T10:15:01+00:00 NOTICE product_submit.success :: addStoreProduct :: #1909
+2021-01-13T10:15:01+00:00 NOTICE product_submit.success :: addStoreProduct :: #1910
+2021-01-13T10:15:02+00:00 NOTICE product_submit.success :: addStoreProduct :: #1911
+2021-01-13T10:15:02+00:00 NOTICE product_submit.success :: addStoreProduct :: #1912
+2021-01-13T10:15:03+00:00 NOTICE product_submit.success :: addStoreProduct :: #1913
+2021-01-13T10:15:03+00:00 NOTICE product_submit.success :: addStoreProduct :: #1914
+2021-01-13T10:15:04+00:00 NOTICE product_submit.success :: addStoreProduct :: #1915
+2021-01-13T10:15:04+00:00 NOTICE product_submit.success :: addStoreProduct :: #1916
+2021-01-13T10:15:05+00:00 NOTICE product_submit.success :: addStoreProduct :: #1917
+2021-01-13T10:15:05+00:00 NOTICE product_submit.success :: addStoreProduct :: #1918
+2021-01-13T10:15:06+00:00 NOTICE product_submit.success :: addStoreProduct :: #1920
+2021-01-13T10:15:07+00:00 NOTICE product_submit.success :: addStoreProduct :: #1921
+2021-01-13T10:15:07+00:00 NOTICE product_submit.success :: addStoreProduct :: #1934
+2021-01-13T10:15:08+00:00 NOTICE product_submit.success :: addStoreProduct :: #1935
+2021-01-13T10:15:08+00:00 NOTICE product_submit.success :: addStoreProduct :: #1936
+2021-01-13T10:15:09+00:00 NOTICE product_submit.success :: addStoreProduct :: #1937
+2021-01-13T10:15:09+00:00 NOTICE product_submit.success :: addStoreProduct :: #1938
+2021-01-13T10:15:10+00:00 NOTICE product_submit.success :: addStoreProduct :: #1939
+2021-01-13T10:15:10+00:00 NOTICE product_submit.success :: addStoreProduct :: #1940
+2021-01-13T10:15:11+00:00 NOTICE product_submit.success :: addStoreProduct :: #1941
+2021-01-13T10:15:12+00:00 NOTICE product_submit.success :: addStoreProduct :: #1943
+2021-01-13T10:15:12+00:00 NOTICE product_submit.success :: addStoreProduct :: #1944
+2021-01-13T10:15:13+00:00 NOTICE product_submit.success :: addStoreProduct :: #1945
+2021-01-13T10:15:13+00:00 NOTICE product_submit.success :: addStoreProduct :: #1946
+2021-01-13T10:15:28+00:00 NOTICE product_submit.success :: addStoreProduct :: #1947
+2021-01-13T10:15:28+00:00 NOTICE product_submit.success :: addStoreProduct :: #1948
+2021-01-13T10:15:29+00:00 NOTICE product_submit.success :: addStoreProduct :: #1949
+2021-01-13T10:15:29+00:00 NOTICE product_submit.success :: addStoreProduct :: #1950
+2021-01-13T10:15:30+00:00 NOTICE product_submit.success :: addStoreProduct :: #1951
+2021-01-13T10:15:30+00:00 NOTICE product_submit.success :: addStoreProduct :: #1952
+2021-01-13T10:15:31+00:00 NOTICE product_submit.success :: addStoreProduct :: #1953
+2021-01-13T10:15:31+00:00 NOTICE product_submit.success :: addStoreProduct :: #1954
+2021-01-13T10:15:32+00:00 NOTICE product_submit.success :: addStoreProduct :: #1955
+2021-01-13T10:15:32+00:00 NOTICE product_submit.success :: addStoreProduct :: #1956
+2021-01-13T10:15:33+00:00 NOTICE product_submit.success :: addStoreProduct :: #1957
+2021-01-13T10:15:33+00:00 NOTICE product_submit.success :: addStoreProduct :: #1958
+2021-01-13T10:15:34+00:00 NOTICE product_submit.success :: addStoreProduct :: #1964
+2021-01-13T10:15:34+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Orders queued :: page 1
+2021-01-13T10:15:36+00:00 NOTICE order_sync.completed :: Done with the order queueing.
+2021-01-13T10:16:10+00:00 NOTICE sync.completed :: Finished Sync :: Wed, Jan 13, 2021 10:16 AM (total time: 00:05:21)

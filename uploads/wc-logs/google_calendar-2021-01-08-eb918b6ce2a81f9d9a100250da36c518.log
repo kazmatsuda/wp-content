@@ -1,0 +1,756 @@
+01-08-2021 @ 11:05:02 - Getting Google API Access Token...
+01-08-2021 @ 11:05:02 - Failed to retrieve and generate the Access Token
+01-08-2021 @ 11:05:03 - Error while synchronizing the booking #1429: Array
+(
+    [headers] => Requests_Utility_CaseInsensitiveDictionary Object
+        (
+            [data:protected] => Array
+                (
+                    [vary] => Array
+                        (
+                            [0] => Origin
+                            [1] => X-Origin
+                            [2] => Referer
+                        )
+
+                    [content-type] => application/json; charset=UTF-8
+                    [date] => Fri, 08 Jan 2021 02:05:03 GMT
+                    [server] => ESF
+                    [content-length] => 509
+                    [x-xss-protection] => 0
+                    [x-frame-options] => SAMEORIGIN
+                    [x-content-type-options] => nosniff
+                    [alt-svc] => h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+                )
+
+        )
+
+    [body] => {
+  "error": {
+    "code": 401,
+    "message": "Request is missing required authentication credential. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.",
+    "errors": [
+      {
+        "message": "Login Required.",
+        "domain": "global",
+        "reason": "required",
+        "location": "Authorization",
+        "locationType": "header"
+      }
+    ],
+    "status": "UNAUTHENTICATED"
+  }
+}
+
+    [response] => Array
+        (
+            [code] => 401
+            [message] => Unauthorized
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+    [http_response] => WP_HTTP_Requests_Response Object
+        (
+            [response:protected] => Requests_Response Object
+                (
+                    [body] => {
+  "error": {
+    "code": 401,
+    "message": "Request is missing required authentication credential. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.",
+    "errors": [
+      {
+        "message": "Login Required.",
+        "domain": "global",
+        "reason": "required",
+        "location": "Authorization",
+        "locationType": "header"
+      }
+    ],
+    "status": "UNAUTHENTICATED"
+  }
+}
+
+                    [raw] => HTTP/1.1 401 Unauthorized
+Vary: Origin
+Vary: X-Origin
+Vary: Referer
+Content-Type: application/json; charset=UTF-8
+Date: Fri, 08 Jan 2021 02:05:03 GMT
+Server: ESF
+Content-Length: 509
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Alt-Svc: h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+Connection: close
+
+{
+  "error": {
+    "code": 401,
+    "message": "Request is missing required authentication credential. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.",
+    "errors": [
+      {
+        "message": "Login Required.",
+        "domain": "global",
+        "reason": "required",
+        "location": "Authorization",
+        "locationType": "header"
+      }
+    ],
+    "status": "UNAUTHENTICATED"
+  }
+}
+
+                    [headers] => Requests_Response_Headers Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [vary] => Array
+                                        (
+                                            [0] => Origin
+                                            [1] => X-Origin
+                                            [2] => Referer
+                                        )
+
+                                    [content-type] => Array
+                                        (
+                                            [0] => application/json; charset=UTF-8
+                                        )
+
+                                    [date] => Array
+                                        (
+                                            [0] => Fri, 08 Jan 2021 02:05:03 GMT
+                                        )
+
+                                    [server] => Array
+                                        (
+                                            [0] => ESF
+                                        )
+
+                                    [content-length] => Array
+                                        (
+                                            [0] => 509
+                                        )
+
+                                    [x-xss-protection] => Array
+                                        (
+                                            [0] => 0
+                                        )
+
+                                    [x-frame-options] => Array
+                                        (
+                                            [0] => SAMEORIGIN
+                                        )
+
+                                    [x-content-type-options] => Array
+                                        (
+                                            [0] => nosniff
+                                        )
+
+                                    [alt-svc] => Array
+                                        (
+                                            [0] => h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+                                        )
+
+                                )
+
+                        )
+
+                    [status_code] => 401
+                    [protocol_version] => 1.1
+                    [success] => 
+                    [redirects] => 0
+                    [url] => https://www.googleapis.com/calendar/v3/calendars//events
+                    [history] => Array
+                        (
+                        )
+
+                    [cookies] => Requests_Cookie_Jar Object
+                        (
+                            [cookies:protected] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [filename:protected] => 
+            [data] => 
+            [headers] => 
+            [status] => 
+        )
+
+)
+
+01-08-2021 @ 11:05:03 - Getting Google API Access Token...
+01-08-2021 @ 11:05:03 - Failed to retrieve and generate the Access Token
+01-08-2021 @ 11:05:03 - Error while synchronizing the booking #1429: Array
+(
+    [headers] => Requests_Utility_CaseInsensitiveDictionary Object
+        (
+            [data:protected] => Array
+                (
+                    [vary] => Array
+                        (
+                            [0] => Origin
+                            [1] => X-Origin
+                            [2] => Referer
+                        )
+
+                    [content-type] => application/json; charset=UTF-8
+                    [date] => Fri, 08 Jan 2021 02:05:03 GMT
+                    [server] => ESF
+                    [content-length] => 509
+                    [x-xss-protection] => 0
+                    [x-frame-options] => SAMEORIGIN
+                    [x-content-type-options] => nosniff
+                    [alt-svc] => h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+                )
+
+        )
+
+    [body] => {
+  "error": {
+    "code": 401,
+    "message": "Request is missing required authentication credential. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.",
+    "errors": [
+      {
+        "message": "Login Required.",
+        "domain": "global",
+        "reason": "required",
+        "location": "Authorization",
+        "locationType": "header"
+      }
+    ],
+    "status": "UNAUTHENTICATED"
+  }
+}
+
+    [response] => Array
+        (
+            [code] => 401
+            [message] => Unauthorized
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+    [http_response] => WP_HTTP_Requests_Response Object
+        (
+            [response:protected] => Requests_Response Object
+                (
+                    [body] => {
+  "error": {
+    "code": 401,
+    "message": "Request is missing required authentication credential. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.",
+    "errors": [
+      {
+        "message": "Login Required.",
+        "domain": "global",
+        "reason": "required",
+        "location": "Authorization",
+        "locationType": "header"
+      }
+    ],
+    "status": "UNAUTHENTICATED"
+  }
+}
+
+                    [raw] => HTTP/1.1 401 Unauthorized
+Vary: Origin
+Vary: X-Origin
+Vary: Referer
+Content-Type: application/json; charset=UTF-8
+Date: Fri, 08 Jan 2021 02:05:03 GMT
+Server: ESF
+Content-Length: 509
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Alt-Svc: h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+Connection: close
+
+{
+  "error": {
+    "code": 401,
+    "message": "Request is missing required authentication credential. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.",
+    "errors": [
+      {
+        "message": "Login Required.",
+        "domain": "global",
+        "reason": "required",
+        "location": "Authorization",
+        "locationType": "header"
+      }
+    ],
+    "status": "UNAUTHENTICATED"
+  }
+}
+
+                    [headers] => Requests_Response_Headers Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [vary] => Array
+                                        (
+                                            [0] => Origin
+                                            [1] => X-Origin
+                                            [2] => Referer
+                                        )
+
+                                    [content-type] => Array
+                                        (
+                                            [0] => application/json; charset=UTF-8
+                                        )
+
+                                    [date] => Array
+                                        (
+                                            [0] => Fri, 08 Jan 2021 02:05:03 GMT
+                                        )
+
+                                    [server] => Array
+                                        (
+                                            [0] => ESF
+                                        )
+
+                                    [content-length] => Array
+                                        (
+                                            [0] => 509
+                                        )
+
+                                    [x-xss-protection] => Array
+                                        (
+                                            [0] => 0
+                                        )
+
+                                    [x-frame-options] => Array
+                                        (
+                                            [0] => SAMEORIGIN
+                                        )
+
+                                    [x-content-type-options] => Array
+                                        (
+                                            [0] => nosniff
+                                        )
+
+                                    [alt-svc] => Array
+                                        (
+                                            [0] => h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+                                        )
+
+                                )
+
+                        )
+
+                    [status_code] => 401
+                    [protocol_version] => 1.1
+                    [success] => 
+                    [redirects] => 0
+                    [url] => https://www.googleapis.com/calendar/v3/calendars//events
+                    [history] => Array
+                        (
+                        )
+
+                    [cookies] => Requests_Cookie_Jar Object
+                        (
+                            [cookies:protected] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [filename:protected] => 
+            [data] => 
+            [headers] => 
+            [status] => 
+        )
+
+)
+
+01-08-2021 @ 11:14:46 - Getting Google API Access Token...
+01-08-2021 @ 11:14:46 - Failed to retrieve and generate the Access Token
+01-08-2021 @ 11:14:47 - Error while synchronizing the booking #1430: Array
+(
+    [headers] => Requests_Utility_CaseInsensitiveDictionary Object
+        (
+            [data:protected] => Array
+                (
+                    [vary] => Array
+                        (
+                            [0] => Origin
+                            [1] => X-Origin
+                            [2] => Referer
+                        )
+
+                    [content-type] => application/json; charset=UTF-8
+                    [date] => Fri, 08 Jan 2021 02:14:47 GMT
+                    [server] => ESF
+                    [content-length] => 509
+                    [x-xss-protection] => 0
+                    [x-frame-options] => SAMEORIGIN
+                    [x-content-type-options] => nosniff
+                    [alt-svc] => h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+                )
+
+        )
+
+    [body] => {
+  "error": {
+    "code": 401,
+    "message": "Request is missing required authentication credential. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.",
+    "errors": [
+      {
+        "message": "Login Required.",
+        "domain": "global",
+        "reason": "required",
+        "location": "Authorization",
+        "locationType": "header"
+      }
+    ],
+    "status": "UNAUTHENTICATED"
+  }
+}
+
+    [response] => Array
+        (
+            [code] => 401
+            [message] => Unauthorized
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+    [http_response] => WP_HTTP_Requests_Response Object
+        (
+            [response:protected] => Requests_Response Object
+                (
+                    [body] => {
+  "error": {
+    "code": 401,
+    "message": "Request is missing required authentication credential. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.",
+    "errors": [
+      {
+        "message": "Login Required.",
+        "domain": "global",
+        "reason": "required",
+        "location": "Authorization",
+        "locationType": "header"
+      }
+    ],
+    "status": "UNAUTHENTICATED"
+  }
+}
+
+                    [raw] => HTTP/1.1 401 Unauthorized
+Vary: Origin
+Vary: X-Origin
+Vary: Referer
+Content-Type: application/json; charset=UTF-8
+Date: Fri, 08 Jan 2021 02:14:47 GMT
+Server: ESF
+Content-Length: 509
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Alt-Svc: h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+Connection: close
+
+{
+  "error": {
+    "code": 401,
+    "message": "Request is missing required authentication credential. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.",
+    "errors": [
+      {
+        "message": "Login Required.",
+        "domain": "global",
+        "reason": "required",
+        "location": "Authorization",
+        "locationType": "header"
+      }
+    ],
+    "status": "UNAUTHENTICATED"
+  }
+}
+
+                    [headers] => Requests_Response_Headers Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [vary] => Array
+                                        (
+                                            [0] => Origin
+                                            [1] => X-Origin
+                                            [2] => Referer
+                                        )
+
+                                    [content-type] => Array
+                                        (
+                                            [0] => application/json; charset=UTF-8
+                                        )
+
+                                    [date] => Array
+                                        (
+                                            [0] => Fri, 08 Jan 2021 02:14:47 GMT
+                                        )
+
+                                    [server] => Array
+                                        (
+                                            [0] => ESF
+                                        )
+
+                                    [content-length] => Array
+                                        (
+                                            [0] => 509
+                                        )
+
+                                    [x-xss-protection] => Array
+                                        (
+                                            [0] => 0
+                                        )
+
+                                    [x-frame-options] => Array
+                                        (
+                                            [0] => SAMEORIGIN
+                                        )
+
+                                    [x-content-type-options] => Array
+                                        (
+                                            [0] => nosniff
+                                        )
+
+                                    [alt-svc] => Array
+                                        (
+                                            [0] => h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+                                        )
+
+                                )
+
+                        )
+
+                    [status_code] => 401
+                    [protocol_version] => 1.1
+                    [success] => 
+                    [redirects] => 0
+                    [url] => https://www.googleapis.com/calendar/v3/calendars//events
+                    [history] => Array
+                        (
+                        )
+
+                    [cookies] => Requests_Cookie_Jar Object
+                        (
+                            [cookies:protected] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [filename:protected] => 
+            [data] => 
+            [headers] => 
+            [status] => 
+        )
+
+)
+
+01-08-2021 @ 14:58:43 - Getting Google API Access Token...
+01-08-2021 @ 14:58:43 - Failed to retrieve and generate the Access Token
+01-08-2021 @ 14:58:44 - Error while synchronizing the booking #1461: Array
+(
+    [headers] => Requests_Utility_CaseInsensitiveDictionary Object
+        (
+            [data:protected] => Array
+                (
+                    [vary] => Array
+                        (
+                            [0] => Origin
+                            [1] => X-Origin
+                            [2] => Referer
+                        )
+
+                    [content-type] => application/json; charset=UTF-8
+                    [date] => Fri, 08 Jan 2021 05:58:44 GMT
+                    [server] => ESF
+                    [content-length] => 509
+                    [x-xss-protection] => 0
+                    [x-frame-options] => SAMEORIGIN
+                    [x-content-type-options] => nosniff
+                    [alt-svc] => h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+                )
+
+        )
+
+    [body] => {
+  "error": {
+    "code": 401,
+    "message": "Request is missing required authentication credential. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.",
+    "errors": [
+      {
+        "message": "Login Required.",
+        "domain": "global",
+        "reason": "required",
+        "location": "Authorization",
+        "locationType": "header"
+      }
+    ],
+    "status": "UNAUTHENTICATED"
+  }
+}
+
+    [response] => Array
+        (
+            [code] => 401
+            [message] => Unauthorized
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+    [http_response] => WP_HTTP_Requests_Response Object
+        (
+            [response:protected] => Requests_Response Object
+                (
+                    [body] => {
+  "error": {
+    "code": 401,
+    "message": "Request is missing required authentication credential. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.",
+    "errors": [
+      {
+        "message": "Login Required.",
+        "domain": "global",
+        "reason": "required",
+        "location": "Authorization",
+        "locationType": "header"
+      }
+    ],
+    "status": "UNAUTHENTICATED"
+  }
+}
+
+                    [raw] => HTTP/1.1 401 Unauthorized
+Vary: Origin
+Vary: X-Origin
+Vary: Referer
+Content-Type: application/json; charset=UTF-8
+Date: Fri, 08 Jan 2021 05:58:44 GMT
+Server: ESF
+Content-Length: 509
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Alt-Svc: h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+Connection: close
+
+{
+  "error": {
+    "code": 401,
+    "message": "Request is missing required authentication credential. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.",
+    "errors": [
+      {
+        "message": "Login Required.",
+        "domain": "global",
+        "reason": "required",
+        "location": "Authorization",
+        "locationType": "header"
+      }
+    ],
+    "status": "UNAUTHENTICATED"
+  }
+}
+
+                    [headers] => Requests_Response_Headers Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [vary] => Array
+                                        (
+                                            [0] => Origin
+                                            [1] => X-Origin
+                                            [2] => Referer
+                                        )
+
+                                    [content-type] => Array
+                                        (
+                                            [0] => application/json; charset=UTF-8
+                                        )
+
+                                    [date] => Array
+                                        (
+                                            [0] => Fri, 08 Jan 2021 05:58:44 GMT
+                                        )
+
+                                    [server] => Array
+                                        (
+                                            [0] => ESF
+                                        )
+
+                                    [content-length] => Array
+                                        (
+                                            [0] => 509
+                                        )
+
+                                    [x-xss-protection] => Array
+                                        (
+                                            [0] => 0
+                                        )
+
+                                    [x-frame-options] => Array
+                                        (
+                                            [0] => SAMEORIGIN
+                                        )
+
+                                    [x-content-type-options] => Array
+                                        (
+                                            [0] => nosniff
+                                        )
+
+                                    [alt-svc] => Array
+                                        (
+                                            [0] => h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+                                        )
+
+                                )
+
+                        )
+
+                    [status_code] => 401
+                    [protocol_version] => 1.1
+                    [success] => 
+                    [redirects] => 0
+                    [url] => https://www.googleapis.com/calendar/v3/calendars//events
+                    [history] => Array
+                        (
+                        )
+
+                    [cookies] => Requests_Cookie_Jar Object
+                        (
+                            [cookies:protected] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [filename:protected] => 
+            [data] => 
+            [headers] => 
+            [status] => 
+        )
+
+)
+

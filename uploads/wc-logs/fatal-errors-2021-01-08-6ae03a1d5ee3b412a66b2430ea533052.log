@@ -1,0 +1,4 @@
+2021-01-08T04:24:56+00:00 CRITICAL syntax error, unexpected ''<span class="posted_in">'' (T_CONSTANT_ENCAPSED_STRING), expecting ')': /Users/kaz_matsuda/Local Sites/kyogaku20212/app/public/wp-content/plugins/woocommerce/templates/single-product/meta.php の行34
+
+2021-01-08T04:25:00+00:00 CRITICAL syntax error, unexpected ''<span class="posted_in">'' (T_CONSTANT_ENCAPSED_STRING), expecting ')': /Users/kaz_matsuda/Local Sites/kyogaku20212/app/public/wp-content/plugins/woocommerce/templates/single-product/meta.php の行34
+

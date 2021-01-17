@@ -1,0 +1,550 @@
+# Translation of Themes - Graphy in Japanese
+# This file is distributed under the same license as the Themes - Graphy package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-10-29 16:06:53+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Themes - Graphy\n"
+
+#. Description of the theme
+msgid "Graphy is now compatible with WordPress 5.0 and Gutenberg! Graphy is a blog-oriented WordPress theme designed with great attention given to the beauty of the typography. Made using mobile-first responsive web design, even when your site is viewed on a smartphone or tablet there will be no negative impact on the beautiful typography."
+msgstr "Graphy が WordPress 5.0と Gutenberg に対応しました ! Graphy はタイポグラフィーの美しさにこだわって作られたブログ向け WordPress テーマです。モバイルファーストのレスポンシブデザインで作られており、スマートフォンやタブレットからの閲覧でも美しいタイポグラフィを損なうことはありません。"
+
+#. Theme Name of the theme
+msgid "Graphy"
+msgstr "Graphy"
+
+#: functions.php:335
+msgid "Hide Page Title"
+msgstr "ページタイトルを表示しない"
+
+#: functions.php:312
+msgid "Page Title Display"
+msgstr "ページタイトルの表示"
+
+#: inc/customizer.php:203 inc/customizer.php:328
+msgid "Display on the whole site"
+msgstr "サイト全体に表示"
+
+#: inc/customizer.php:202 inc/customizer.php:327
+msgid "Display on all static pages"
+msgstr "全ての固定ページに表示"
+
+#: inc/customizer.php:201 inc/customizer.php:326
+msgid "Display on the blog posts index page"
+msgstr "ブログトップページに表示"
+
+#: inc/customizer.php:197
+msgid "Header Image Display"
+msgstr "ヘッダー画像の表示"
+
+#. Template Name of the theme
+msgid "Full Width"
+msgstr "全幅"
+
+#: inc/widgets.php:195
+msgid "Social Link 7:"
+msgstr "ソーシャルリンク7:"
+
+#: inc/widgets.php:193
+msgid "Social Link 6:"
+msgstr "ソーシャルリンク6:"
+
+#: inc/widgets.php:191
+msgid "Social Link 5:"
+msgstr "ソーシャルリンク5:"
+
+#: inc/widgets.php:189
+msgid "Social Link 4:"
+msgstr "ソーシャルリンク4:"
+
+#: inc/widgets.php:187
+msgid "Social Link 3:"
+msgstr "ソーシャルリンク3:"
+
+#: inc/widgets.php:185
+msgid "Social Link 2:"
+msgstr "ソーシャルリンク2:"
+
+#: inc/widgets.php:183
+msgid "Social Link 1:"
+msgstr "ソーシャルリンク1:"
+
+#: inc/widgets.php:178
+msgid "Name:"
+msgstr "名前:"
+
+#: inc/widgets.php:175
+msgid "Profile Image URL:"
+msgstr "プロフィール画像のURL:"
+
+#: inc/widgets.php:95
+msgid "Graphy Profile"
+msgstr "Graphy プロフィール"
+
+#: inc/widgets.php:94
+msgid "Displays a profile with a photo and social media links."
+msgstr "写真やソーシャルリンクとともにプロフィールを表示します。"
+
+#: inc/widgets.php:81
+msgid "Display post date?"
+msgstr "投稿日を表示しますか ?"
+
+#: inc/widgets.php:77
+msgid "Number of posts to show:"
+msgstr "表示する投稿数"
+
+#: inc/widgets.php:74 inc/widgets.php:172
+msgid "Title:"
+msgstr "タイトル:"
+
+#: inc/widgets.php:20
+msgid "Recent Posts"
+msgstr "最近の投稿"
+
+#: inc/widgets.php:16
+msgid "Graphy Recent Posts"
+msgstr "Graphy 最近の投稿"
+
+#: inc/widgets.php:15
+msgid "Displays recent posts with featured images."
+msgstr "最新の投稿を画像付きで表示します。"
+
+#: inc/template-tags.php:179
+msgid "Newer post"
+msgstr "新しい投稿"
+
+#: inc/template-tags.php:178
+msgid "Older post"
+msgstr "古い投稿"
+
+#: inc/template-tags.php:154
+msgid "View all posts by %s &rarr;"
+msgstr "%s の投稿をすべて表示"
+
+#: inc/template-tags.php:94
+msgid "0 Comment"
+msgstr "0件のコメント"
+
+#: inc/template-tags.php:88
+msgid "View all posts by %s"
+msgstr "%s の投稿をすべて表示"
+
+#: inc/template-tags.php:79
+msgid "on"
+msgstr "on"
+
+#: inc/template-tags.php:78
+msgid "Posted"
+msgstr "Posted"
+
+#: inc/jetpack.php:46
+msgid "You might also like"
+msgstr "関連する投稿"
+
+#: inc/customizer.php:361
+msgid "Upgrade to Graphy Pro"
+msgstr "Graphy Proにアップグレード"
+
+#: inc/customizer.php:299
+msgid "Hide Search on Main Navigation"
+msgstr "メインナビゲーションの検索を表示しない"
+
+#: inc/customizer.php:289
+msgid "Hide Main Navigation"
+msgstr "メインナビゲーションを表示しない"
+
+#: inc/customizer.php:271
+msgid "You can set custom CSS or Google Fonts."
+msgstr "カスタムCSSおよびカスタムGoogleフォントを設定することができます。"
+
+#: inc/customizer.php:270
+msgid "Custom CSS"
+msgstr "カスタム CSS"
+
+#: inc/customizer.php:256
+msgid "You can set the footer text and hide the theme credits from here."
+msgstr "フッターテキストを設定することができます。また、クレジットを非表示にすることができます。"
+
+#: inc/customizer.php:255
+msgid "Footer"
+msgstr "フッター"
+
+#: inc/customizer.php:241
+msgid "You can set the colors for various categories."
+msgstr "それぞれのカテゴリーの色を設定することができます。"
+
+#: inc/customizer.php:240
+msgid "Category Colors"
+msgstr "カテゴリーカラー"
+
+#: inc/customizer.php:226
+msgid "You can set how posts are displayed on the blog posts index page. You can also hide elements such as categories, date, author name, comments number, featured image, author profile, and post navigation."
+msgstr "ブログホームページでの投稿の表示を設定することができます。また、カテゴリー・日付・投稿者名・コメント数・アイキャッチ画像・投稿者プロフィール・投稿ナビゲーションを非表示にすることもできます。"
+
+#: inc/customizer.php:225
+msgid "Post Display"
+msgstr "投稿の表示"
+
+#: inc/customizer.php:211
+msgid "You can set the posts that will be featured on the homepage slider as well as in the Graphy Featured Posts widget."
+msgstr "ホームページのスライダーおよびGraphy Featured Postsウィジェットで表示する投稿を設定することができます。"
+
+#: inc/customizer.php:210
+msgid "Featured Posts"
+msgstr "おすすめ投稿"
+
+#: inc/customizer.php:185
+msgid "Margin Bottom (px)"
+msgstr "下マージン (px)"
+
+#: inc/customizer.php:174
+msgid "Margin Top (px)"
+msgstr "上マージン (px)"
+
+#: inc/customizer.php:153
+msgid "Retina Ready"
+msgstr "Retina 対応"
+
+#: inc/customizer.php:126
+msgid "In order to use a retina logo image, you must have a version of your logo that is doubled in size."
+msgstr "ロゴ画像をレティーナ対応にするためには、2倍のサイズのロゴ画像が必要になります。"
+
+#: inc/customizer.php:111
+msgid "You can set the title font."
+msgstr "タイトルのフォントを設定することができます。"
+
+#: inc/customizer.php:110
+msgid "Title"
+msgstr "タイトル"
+
+#: inc/customizer.php:75
+msgid "You can set the header and body text to a variety of fonts."
+msgstr "見出しと本文のフォントをそれぞれ設定することができます。"
+
+#: inc/customizer.php:74
+msgid "Fonts"
+msgstr "フォント"
+
+#: inc/customizer.php:60
+msgid "READ ME"
+msgstr "READ ME"
+
+#: inc/customizer.php:40
+msgid "To use this feature, please upgrade to Graphy Pro."
+msgstr "この機能を使うには、Graphy Proにアップグレードしてください。"
+
+#: inc/customizer.php:31
+msgid "Graphy Pro"
+msgstr "Graphy Pro"
+
+#: inc/customizer.php:31 inc/customizer.php:360
+msgid "http://themegraphy.com/wordpress-themes/graphy/#pro"
+msgstr "http://themegraphy.com/wordpress-themes/graphy/#pro"
+
+#: inc/customizer.php:30
+msgid "If you would like even more features and/or 1-on-1 personal support, it is recommended you upgrade to Graphy Pro."
+msgstr "さらに多くの機能や1対1のサポートをご希望の場合は、Graphy Pro へのアップグレードをおすすめします。"
+
+#: inc/customizer.php:29
+msgid "Upgrade"
+msgstr "アップグレード"
+
+#: inc/customizer.php:28
+msgid "Review This Theme"
+msgstr "テーマをレビューする"
+
+#: inc/customizer.php:28
+msgid "https://wordpress.org/support/view/theme-reviews/graphy?filter=5"
+msgstr "https://wordpress.org/support/view/theme-reviews/graphy?filter=5"
+
+#: inc/customizer.php:27
+msgid "If you are satisfied with the theme, we would greatly appreciate if you would review it."
+msgstr "テーマに満足したら、レビューをしていただけると幸いです。"
+
+#: inc/customizer.php:26
+msgid "Review"
+msgstr "レビュー"
+
+#: inc/customizer.php:25
+msgid "Support Forum"
+msgstr "サポートフォーラム"
+
+#: inc/customizer.php:25
+msgid "https://wordpress.org/support/theme/graphy"
+msgstr "https://ja.forums.wordpress.org/forum/4"
+
+#: inc/customizer.php:24
+msgid "If there is something you don't understand even after reading the documentation, please use the support forum."
+msgstr "マニュアルを読んでも分からないことがあれば、サポートフォーラムよりお気軽にお問い合わせ下さい。"
+
+#: inc/customizer.php:23
+msgid "Support"
+msgstr "サポート"
+
+#: inc/customizer.php:22
+msgid "Theme Documentation"
+msgstr "テーママニュアル"
+
+#: inc/customizer.php:22
+msgid "http://themegraphy.com/documents/graphy/"
+msgstr "http://themegraphy.com/ja/documents/graphy/"
+
+#: inc/customizer.php:21
+msgid "For instructions on theme configuration, please see the documentation."
+msgstr "テーマの設定方法はマニュアルをご覧下さい。"
+
+#: inc/customizer.php:20
+msgid "Documentation"
+msgstr "マニュアル"
+
+#: inc/customizer.php:19
+msgid "Thank you for using the Graphy theme."
+msgstr "Graphyテーマをご利用いただきありがとうございます。"
+
+#: functions.php:391
+msgid "Social Link 7"
+msgstr "ソーシャルリンク7"
+
+#: functions.php:390
+msgid "Social Link 6"
+msgstr "ソーシャルリンク6"
+
+#: functions.php:389
+msgid "Social Link 5"
+msgstr "ソーシャルリンク5"
+
+#: functions.php:388
+msgid "Social Link 4"
+msgstr "ソーシャルリンク4"
+
+#: functions.php:387
+msgid "Social Link 3"
+msgstr "ソーシャルリンク3"
+
+#: functions.php:386
+msgid "Social Link 2"
+msgstr "ソーシャルリンク2"
+
+#: functions.php:385
+msgid "Social Link 1"
+msgstr "ソーシャルリンク1"
+
+#: functions.php:186
+msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr "no-subset"
+
+#: functions.php:176
+msgctxt "Source Serif Pro font: on or off"
+msgid "on"
+msgstr "off"
+
+#: functions.php:127
+msgid "From left to right there are 4 sequential footer widget areas, and the width is auto-adjusted based on how many you use. If you do not use a footer widget, nothing will be displayed."
+msgstr "フッターウィジェットエリアは左から順に4つあり、使用する数によって幅が自動的に調整されます。1つも使用しない場合は表示されません。"
+
+#: functions.php:117
+msgid "This is the normal sidebar. If you do not use this sidebar, the page will be a one-column design."
+msgstr "通常のサイドバーです。サイドバーを使用しない場合、1カラムデザインになります。"
+
+#: functions.php:62
+msgid "Header Social Links"
+msgstr "ヘッダーソーシャルリンク"
+
+#: functions.php:61
+msgid "Main Navigation"
+msgstr "メインナビゲーション"
+
+#: footer.php:26
+msgid "Theme: <a href=\"%1$s\">%2$s</a> by %3$s"
+msgstr "Theme: <a href=\"%1$s\">%2$s</a> by %3$s"
+
+#: footer.php:24
+msgid "Powered by <a href=\"%1$s\">%2$s</a>"
+msgstr "Powered by <a href=\"%1$s\">%2$s</a>"
+
+#: content-summary.php:24 inc/extras.php:20
+msgid "Continue reading &rarr;"
+msgstr "続きを読む &rarr;"
+
+#: content.php:11 content-summary.php:11 content-list.php:17
+msgid "Featured"
+msgstr "おすすめ"
+
+#: archive.php:34 home.php:25 search.php:29 index.php:31
+msgid "Next &raquo;"
+msgstr "次へ &raquo;"
+
+#: archive.php:33 home.php:24 search.php:28 index.php:30
+msgid "&laquo; Previous"
+msgstr "&laquo; 前へ"
+
+#. Template Name of the theme
+msgid "No Sidebar"
+msgstr "サイドバーなし"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "「%s」の検索結果"
+
+#: content-single.php:27
+msgid ", "
+msgstr "、"
+
+#: comments.php:28 inc/template-tags.php:94
+msgid "% Comments"
+msgstr "%件のコメント"
+
+#: comments.php:28 inc/template-tags.php:94
+msgid "1 Comment"
+msgstr "1件のコメント"
+
+#: comments.php:76
+msgid "Leave a Comment"
+msgstr "コメントする"
+
+#: inc/template-tags.php:86
+msgid "by"
+msgstr "by"
+
+#: inc/template-tags.php:179
+msgctxt "Next post link"
+msgid "%title"
+msgstr "%title"
+
+#: inc/template-tags.php:178
+msgctxt "Previous post link"
+msgid "%title"
+msgstr "%title"
+
+#: inc/template-tags.php:175
+msgid "Post navigation"
+msgstr "投稿ナビゲーション"
+
+#: inc/customizer.php:103
+msgid "Link Hover Color"
+msgstr "リンクホバーカラー"
+
+#: inc/customizer.php:94
+msgid "Link Color"
+msgstr "リンク色"
+
+#: inc/customizer.php:163
+msgid "Add Border Radius"
+msgstr "丸く切り抜く"
+
+#: inc/customizer.php:143
+msgid "Replace Title"
+msgstr "サイトタイトルと置き換える"
+
+#: inc/customizer.php:134
+msgid "Upload Logo"
+msgstr "ロゴをアップロード"
+
+#: inc/customizer.php:125
+msgid "Logo"
+msgstr "ロゴ"
+
+#: inc/customizer.php:53
+msgid "Hide Tagline"
+msgstr "キャッチフレーズを表示しない"
+
+#: header.php:20
+msgid "Skip to content"
+msgstr "コンテンツへスキップ"
+
+#: header.php:39
+msgid "Menu"
+msgstr "メニュー"
+
+#: functions.php:181
+msgctxt "Lora font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:150
+msgid "Footer 4"
+msgstr "フッター4"
+
+#: functions.php:142
+msgid "Footer 3"
+msgstr "フッター3"
+
+#: functions.php:134
+msgid "Footer 2"
+msgstr "フッター2"
+
+#: functions.php:125
+msgid "Footer 1"
+msgstr "フッター1"
+
+#: functions.php:115
+msgid "Sidebar"
+msgstr "サイドバー"
+
+#: footer.php:24
+msgid "https://wordpress.org/"
+msgstr "https://ja.wordpress.org/"
+
+#: content.php:24 content-page.php:22 content-single.php:22
+msgid "Pages:"
+msgstr "固定ページ:"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "お探しのコンテンツを見つけられませんでした。検索をお試しください。"
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "検索キーワードに一致するものはありませんでした。他のキーワードでもう一度お試しください。"
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "最初の投稿を公開する準備はできましたか ? <a href=\"%1$s\">ここから始めましょう</a>。"
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "見つかりませんでした"
+
+#: comments.php:72
+msgid "Comments are closed."
+msgstr "現在コメントは受け付けていません。"
+
+#: comments.php:38 comments.php:60
+msgid "Newer Comments &rarr;"
+msgstr "新しいコメント &rarr;"
+
+#: comments.php:37 comments.php:59
+msgid "&larr; Older Comments"
+msgstr "&larr; 過去のコメント"
+
+#: comments.php:34 comments.php:56
+msgid "Comment navigation"
+msgstr "コメントナビゲーション"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "こちらには何もありません。検索をお試しください。"
+
+#: 404.php:15
+msgid "That page can&rsquo;t be found."
+msgstr "ページが見つかりませんでした。"
+
+#. Author of the theme
+msgid "Themegraphy"
+msgstr "Themegraphy"
+
+#. Theme URI of the theme
+#: footer.php:26
+msgid "http://themegraphy.com/wordpress-themes/graphy/"
+msgstr "http://themegraphy.com/ja/wordpress-themes/graphy/"
+
+#. Author URI of the theme
+msgid "http://themegraphy.com/"
+msgstr "http://themegraphy.com/ja/"
