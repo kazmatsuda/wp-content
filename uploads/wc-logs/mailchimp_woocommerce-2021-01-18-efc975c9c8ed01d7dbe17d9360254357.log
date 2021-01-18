@@ -6,3 +6,11 @@
 2021-01-18T07:05:54+00:00 NOTICE product_submit.success :: updateStoreProduct :: #1464
 2021-01-18T10:21:57+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 1469
 2021-01-18T10:22:30+00:00 NOTICE product_submit.success :: updateStoreProduct :: #1469
+2021-01-18T10:58:13+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 2052
+2021-01-18T10:58:14+00:00 NOTICE debug :: Order ID 2052 was pending and is now on-hold :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2021-01-18T10:59:47+00:00 NOTICE system.debug :: order 2052 is in on-hold status, and is being skipped for now.
