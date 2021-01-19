@@ -1,0 +1,20 @@
+2021-01-19T05:30:55+00:00 CRITICAL Uncaught Error: Call to undefined function graphy_author_profile() in /Users/kaz_matsuda/Local Sites/kyogkau2021bk4/app/public/wp-content/themes/kyogaku2021_2/content-single.php:31
+Stack trace:
+#0 /Users/kaz_matsuda/Local Sites/kyogkau2021bk4/app/public/wp-includes/template.php(732): require()
+#1 /Users/kaz_matsuda/Local Sites/kyogkau2021bk4/app/public/wp-includes/template.php(676): load_template('/Users/kaz_mats...', false, Array)
+#2 /Users/kaz_matsuda/Local Sites/kyogkau2021bk4/app/public/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#3 /Users/kaz_matsuda/Local Sites/kyogkau2021bk4/app/public/wp-content/themes/kyogaku2021_2/single.php(20): get_template_part('content', 'single')
+#4 /Users/kaz_matsuda/Local Sites/kyogkau2021bk4/app/public/wp-includes/template-loader.php(106): include('/Users/kaz_mats...')
+#5 /Users/kaz_matsuda/Local Sites/kyogkau2021bk4/app/public/wp-blog-header.php(19): require_once('/Users/kaz_mats...')
+#6 /Users/kaz_matsuda/Local Sites/kyogkau2021bk4/app: /Users/kaz_matsuda/Local Sites/kyogkau2021bk4/app/public/wp-content/themes/kyogaku2021_2/content-single.php の行31
+
+2021-01-19T05:34:47+00:00 CRITICAL Uncaught Error: Call to undefined function graphy_author_profile() in /Users/kaz_matsuda/Local Sites/kyogkau2021bk4/app/public/wp-content/themes/kyogaku2021_2/content-single.php:31
+Stack trace:
+#0 /Users/kaz_matsuda/Local Sites/kyogkau2021bk4/app/public/wp-includes/template.php(732): require()
+#1 /Users/kaz_matsuda/Local Sites/kyogkau2021bk4/app/public/wp-includes/template.php(676): load_template('/Users/kaz_mats...', false, Array)
+#2 /Users/kaz_matsuda/Local Sites/kyogkau2021bk4/app/public/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#3 /Users/kaz_matsuda/Local Sites/kyogkau2021bk4/app/public/wp-content/themes/kyogaku2021_2/single.php(20): get_template_part('content', 'single')
+#4 /Users/kaz_matsuda/Local Sites/kyogkau2021bk4/app/public/wp-includes/template-loader.php(106): include('/Users/kaz_mats...')
+#5 /Users/kaz_matsuda/Local Sites/kyogkau2021bk4/app/public/wp-blog-header.php(19): require_once('/Users/kaz_mats...')
+#6 /Users/kaz_matsuda/Local Sites/kyogkau2021bk4/app: /Users/kaz_matsuda/Local Sites/kyogkau2021bk4/app/public/wp-content/themes/kyogaku2021_2/content-single.php の行31
+
