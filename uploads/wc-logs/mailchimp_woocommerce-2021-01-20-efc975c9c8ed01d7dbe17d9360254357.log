@@ -29,3 +29,39 @@
 )
 
 2021-01-20T07:45:34+00:00 NOTICE system.debug :: order 2108 is in on-hold status, and is being skipped for now.
+2021-01-20T16:01:46+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 1
+2021-01-20T16:01:46+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 2109
+2021-01-20T16:01:47+00:00 NOTICE debug :: Order ID 2109 was pending and is now on-hold :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2021-01-20T16:03:29+00:00 NOTICE system.debug :: order 2109 is in on-hold status, and is being skipped for now.
+2021-01-20T21:56:58+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 1
+2021-01-20T21:56:58+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 2110
+2021-01-20T21:56:59+00:00 NOTICE debug :: Order ID 2110 was pending and is now on-hold :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2021-01-20T21:58:40+00:00 NOTICE system.debug :: order 2110 is in on-hold status, and is being skipped for now.
+2021-01-20T22:03:45+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 1
+2021-01-20T22:03:46+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 2111
+2021-01-20T22:03:47+00:00 NOTICE debug :: Order ID 2111 was pending and is now on-hold :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2021-01-20T22:05:43+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 1
+2021-01-20T22:05:43+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 2112
+2021-01-20T22:05:44+00:00 NOTICE debug :: Order ID 2112 was pending and is now on-hold :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2021-01-20T22:06:16+00:00 NOTICE system.debug :: order 2111 is in on-hold status, and is being skipped for now.
+2021-01-20T22:07:16+00:00 NOTICE system.debug :: order 2112 is in on-hold status, and is being skipped for now.

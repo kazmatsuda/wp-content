@@ -9,3 +9,27 @@ Stack trace:
 #4 /Users/kaz_matsuda/Local Sites/kyogkau2021bk4/app/public/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
 #5: /Users/kaz_matsuda/Local Sites/kyogkau2021bk4/app/public/wp-content/plugins/woocommerce/includes/class-wc-order.php の行2076
 
+2021-01-20T15:59:27+00:00 CRITICAL Uncaught Error: Call to a member function get_type() on bool in /Users/kaz_matsuda/Local Sites/kyogkau2021bk4/app/public/wp-content/plugins/woocommerce-rental-and-booking/includes/class-redq-rental-orders.php:129
+Stack trace:
+#0 /Users/kaz_matsuda/Local Sites/kyogkau2021bk4/app/public/wp-includes/class-wp-hook.php(287): Rnb_Orders->rnb_order_item_totals(Array, Object(WC_Order), 'excl')
+#1 /Users/kaz_matsuda/Local Sites/kyogkau2021bk4/app/public/wp-includes/plugin.php(212): WP_Hook->apply_filters(Array, Array)
+#2 /Users/kaz_matsuda/Local Sites/kyogkau2021bk4/app/public/wp-content/plugins/woocommerce/includes/class-wc-order.php(2078): apply_filters('woocommerce_get...', Array, Object(WC_Order), 'excl')
+#3 /Users/kaz_matsuda/Local Sites/kyogkau2021bk4/app/public/wp-content/plugins/kadence-woocommerce-email-designer/templates/woo/emails/email-order-details.php(296): WC_Order->get_order_item_totals()
+#4 /Users/kaz_matsuda/Local Sites/kyogkau2021bk4/app/public/wp-content/plugins/woocommerce/includes/wc-core-functio: /Users/kaz_matsuda/Local Sites/kyogkau2021bk4/app/public/wp-content/plugins/woocommerce-rental-and-booking/includes/class-redq-rental-orders.php の行129
+
+2021-01-20T21:49:03+00:00 CRITICAL Uncaught Error: Call to a member function get_type() on bool in /Users/kaz_matsuda/Local Sites/kyogkau2021bk4/app/public/wp-content/plugins/woocommerce-rental-and-booking/includes/class-redq-rental-orders.php:129
+Stack trace:
+#0 /Users/kaz_matsuda/Local Sites/kyogkau2021bk4/app/public/wp-includes/class-wp-hook.php(287): Rnb_Orders->rnb_order_item_totals(Array, Object(WC_Order), 'excl')
+#1 /Users/kaz_matsuda/Local Sites/kyogkau2021bk4/app/public/wp-includes/plugin.php(212): WP_Hook->apply_filters(Array, Array)
+#2 /Users/kaz_matsuda/Local Sites/kyogkau2021bk4/app/public/wp-content/plugins/woocommerce/includes/class-wc-order.php(2078): apply_filters('woocommerce_get...', Array, Object(WC_Order), 'excl')
+#3 /Users/kaz_matsuda/Local Sites/kyogkau2021bk4/app/public/wp-content/plugins/kadence-woocommerce-email-designer/templates/woo/emails/email-order-details.php(296): WC_Order->get_order_item_totals()
+#4 /Users/kaz_matsuda/Local Sites/kyogkau2021bk4/app/public/wp-content/plugins/woocommerce/includes/wc-core-functio: /Users/kaz_matsuda/Local Sites/kyogkau2021bk4/app/public/wp-content/plugins/woocommerce-rental-and-booking/includes/class-redq-rental-orders.php の行129
+
+2021-01-20T21:50:55+00:00 CRITICAL Uncaught Error: Call to a member function get_type() on bool in /Users/kaz_matsuda/Local Sites/kyogkau2021bk4/app/public/wp-content/plugins/woocommerce-rental-and-booking/includes/class-redq-rental-orders.php:129
+Stack trace:
+#0 /Users/kaz_matsuda/Local Sites/kyogkau2021bk4/app/public/wp-includes/class-wp-hook.php(287): Rnb_Orders->rnb_order_item_totals(Array, Object(WC_Order), 'excl')
+#1 /Users/kaz_matsuda/Local Sites/kyogkau2021bk4/app/public/wp-includes/plugin.php(212): WP_Hook->apply_filters(Array, Array)
+#2 /Users/kaz_matsuda/Local Sites/kyogkau2021bk4/app/public/wp-content/plugins/woocommerce/includes/class-wc-order.php(2078): apply_filters('woocommerce_get...', Array, Object(WC_Order), 'excl')
+#3 /Users/kaz_matsuda/Local Sites/kyogkau2021bk4/app/public/wp-content/plugins/kadence-woocommerce-email-designer/templates/woo/emails/email-order-details.php(296): WC_Order->get_order_item_totals()
+#4 /Users/kaz_matsuda/Local Sites/kyogkau2021bk4/app/public/wp-content/plugins/woocommerce/includes/wc-core-functio: /Users/kaz_matsuda/Local Sites/kyogkau2021bk4/app/public/wp-content/plugins/woocommerce-rental-and-booking/includes/class-redq-rental-orders.php の行129
+
