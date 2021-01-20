@@ -1,2 +1,31 @@
 2021-01-20T03:04:09+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 1469
 2021-01-20T03:05:34+00:00 NOTICE product_submit.success :: updateStoreProduct :: #1469
+2021-01-20T04:27:37+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 1466
+2021-01-20T04:28:16+00:00 NOTICE product_submit.success :: updateStoreProduct :: #1466
+2021-01-20T04:58:13+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 1
+2021-01-20T04:58:13+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 2104
+2021-01-20T04:58:15+00:00 NOTICE debug :: Order ID 2104 was pending and is now on-hold :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2021-01-20T04:59:51+00:00 NOTICE system.debug :: order 2104 is in on-hold status, and is being skipped for now.
+2021-01-20T07:39:39+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 1
+2021-01-20T07:39:39+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 2105
+2021-01-20T07:39:41+00:00 NOTICE debug :: Order ID 2105 was pending and is now on-hold :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2021-01-20T07:41:27+00:00 NOTICE system.debug :: order 2105 is in on-hold status, and is being skipped for now.
+2021-01-20T07:43:18+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 1
+2021-01-20T07:43:18+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 2108
+2021-01-20T07:43:19+00:00 NOTICE debug :: Order ID 2108 was pending and is now on-hold :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2021-01-20T07:45:34+00:00 NOTICE system.debug :: order 2108 is in on-hold status, and is being skipped for now.

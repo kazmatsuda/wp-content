@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Plugins - WooCommerce - Stable (latest release) package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-01-18 20:07+0900\n"
+"PO-Revision-Date: 2021-01-20 16:44+0900\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -13097,7 +13097,7 @@ msgstr "商品毎に割引"
 #: packages/woocommerce-blocks/src/StoreApi/Schemas/CartShippingRateSchema.php:240
 msgctxt "shipping packages"
 msgid "Shipping"
-msgstr "配送"
+msgstr "引取り方法"
 
 #: includes/wc-coupon-functions.php:23
 msgid "Fixed cart discount"
@@ -13504,7 +13504,7 @@ msgstr "エラー:"
 #: includes/class-wc-frontend-scripts.php:558
 #: includes/wc-cart-functions.php:125
 msgid "View cart"
-msgstr "予約リストを見る"
+msgstr "カートを見る"
 
 #. translators: %s: product name
 #: includes/class-wc-cart.php:1139
@@ -20257,7 +20257,7 @@ msgstr "検索対象:"
 #: templates/emails/email-order-details.php:80
 #: templates/emails/plain/email-order-details.php:46
 msgid "Note:"
-msgstr "注:"
+msgstr "注文メモ:"
 
 #. translators: %s is product title
 #: templates/single-product-reviews.php:77
@@ -21234,7 +21234,7 @@ msgstr "購入手続きを行うには、ログインしている必要があり
 
 #: templates/cart/cart.php:148
 msgid "Update cart"
-msgstr "予約リストを更新"
+msgstr "カートをを更新"
 
 #. Translators: %s display name.
 #: templates/auth/form-grant-access.php:50
@@ -29224,7 +29224,7 @@ msgstr "注文状況を %1$s から %2$s に変更しました。"
 #: packages/woocommerce-blocks/build/checkout.js:1
 #: packages/woocommerce-blocks/build/cart.js:1
 msgid "Shipping:"
-msgstr "送料:"
+msgstr "引き取り方法"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-order-actions.php:75
 #: includes/admin/helper/class-wc-helper.php:200

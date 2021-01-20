@@ -1,2 +1,11 @@
 2021-01-20T02:45:40+00:00 CRITICAL syntax error, unexpected '>': /Users/kaz_matsuda/Local Sites/kyogkau2021bk4/app/public/wp-content/plugins/woocommerce/templates/single-product/meta.php の行31
 
+2021-01-20T06:45:43+00:00 CRITICAL Uncaught Error: Call to undefined method Automattic\WooCommerce\Admin\Overrides\Order::add_order_item_totals_total_row() in /Users/kaz_matsuda/Local Sites/kyogkau2021bk4/app/public/wp-content/plugins/woocommerce/includes/class-wc-order.php:2076
+Stack trace:
+#0 /Users/kaz_matsuda/Local Sites/kyogkau2021bk4/app/public/wp-content/plugins/woocommerce/templates/order/order-details.php(82): WC_Order->get_order_item_totals()
+#1 /Users/kaz_matsuda/Local Sites/kyogkau2021bk4/app/public/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/Users/kaz_mats...')
+#2 /Users/kaz_matsuda/Local Sites/kyogkau2021bk4/app/public/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2601): wc_get_template('order/order-det...', Array)
+#3 /Users/kaz_matsuda/Local Sites/kyogkau2021bk4/app/public/wp-includes/class-wp-hook.php(287): woocommerce_order_details_table(2104)
+#4 /Users/kaz_matsuda/Local Sites/kyogkau2021bk4/app/public/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#5: /Users/kaz_matsuda/Local Sites/kyogkau2021bk4/app/public/wp-content/plugins/woocommerce/includes/class-wc-order.php の行2076
+
