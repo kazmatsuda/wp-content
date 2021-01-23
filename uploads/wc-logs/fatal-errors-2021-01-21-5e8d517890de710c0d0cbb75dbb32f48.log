@@ -1,0 +1,20 @@
+2021-01-21T09:00:51+00:00 CRITICAL Uncaught Error: Call to undefined method Automattic\WooCommerce\Admin\Overrides\Order::get_billing_full_name() in /Users/kaz_matsuda/Local Sites/kyogkau2021bk4/app/public/wp-content/themes/kyogaku2021_2/woocommerce/emails/customer-on-hold-order.php:26
+Stack trace:
+#0 /Users/kaz_matsuda/Local Sites/kyogkau2021bk4/app/public/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /Users/kaz_matsuda/Local Sites/kyogkau2021bk4/app/public/wp-content/plugins/woocommerce/includes/wc-core-functions.php(364): wc_get_template('emails/customer...', Array, '', '')
+#2 /Users/kaz_matsuda/Local Sites/kyogkau2021bk4/app/public/wp-content/plugins/woocommerce/includes/emails/class-wc-email-customer-on-hold-order.php(111): wc_get_template_html('emails/customer...', Array)
+#3 /Users/kaz_matsuda/Local Sites/kyogkau2021bk4/app/public/wp-content/plugins/woocommerce/includes/emails/class-wc-email.php(541): WC_Email_Customer_On_Hold_Order->get_content_html()
+#4 /Users/kaz_matsuda/Local Sites/kyogkau2021bk4/ap: /Users/kaz_matsuda/Local Sites/kyogkau2021bk4/app/public/wp-content/themes/kyogaku2021_2/woocommerce/emails/customer-on-hold-order.php の行26
+
+2021-01-21T09:01:07+00:00 CRITICAL Uncaught Error: Call to undefined method Automattic\WooCommerce\Admin\Overrides\Order::get_billing_full_name() in /Users/kaz_matsuda/Local Sites/kyogkau2021bk4/app/public/wp-content/themes/kyogaku2021_2/woocommerce/emails/customer-on-hold-order.php:26
+Stack trace:
+#0 /Users/kaz_matsuda/Local Sites/kyogkau2021bk4/app/public/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /Users/kaz_matsuda/Local Sites/kyogkau2021bk4/app/public/wp-content/plugins/woocommerce/includes/wc-core-functions.php(364): wc_get_template('emails/customer...', Array, '', '')
+#2 /Users/kaz_matsuda/Local Sites/kyogkau2021bk4/app/public/wp-content/plugins/woocommerce/includes/emails/class-wc-email-customer-on-hold-order.php(111): wc_get_template_html('emails/customer...', Array)
+#3 /Users/kaz_matsuda/Local Sites/kyogkau2021bk4/app/public/wp-content/plugins/woocommerce/includes/emails/class-wc-email.php(541): WC_Email_Customer_On_Hold_Order->get_content_html()
+#4 /Users/kaz_matsuda/Local Sites/kyogkau2021bk4/ap: /Users/kaz_matsuda/Local Sites/kyogkau2021bk4/app/public/wp-content/themes/kyogaku2021_2/woocommerce/emails/customer-on-hold-order.php の行26
+
+2021-01-21T16:31:07+00:00 CRITICAL syntax error, unexpected ',', expecting ')': /Users/kaz_matsuda/Local Sites/kyogkau2021bk4/app/public/wp-content/plugins/woocommerce/templates/myaccount/orders.php の行61
+
+2021-01-21T16:38:50+00:00 CRITICAL syntax error, unexpected '点' (T_STRING), expecting ')': /Users/kaz_matsuda/Local Sites/kyogkau2021bk4/app/public/wp-content/plugins/woocommerce/templates/myaccount/orders.php の行61
+

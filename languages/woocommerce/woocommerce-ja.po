@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Plugins - WooCommerce - Stable (latest release) package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-01-20 16:44+0900\n"
+"PO-Revision-Date: 2021-01-22 00:44+0900\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -7453,7 +7453,12 @@ msgstr "配送設定は購入手続き時に更新されます。"
 #. Translators: $s shipping destination.
 #: templates/cart/cart-shipping.php:51
 msgid "Shipping to %s."
-msgstr "%s に配送します。"
+msgstr ""
+"%s に配送します。\n"
+"\n"
+"\n"
+"\n"
+"上記住所以外への発送希望の方は次のページでご記入ください。"
 
 #. translators: %s: error message
 #: includes/wc-rest-functions.php:117
@@ -13097,7 +13102,7 @@ msgstr "商品毎に割引"
 #: packages/woocommerce-blocks/src/StoreApi/Schemas/CartShippingRateSchema.php:240
 msgctxt "shipping packages"
 msgid "Shipping"
-msgstr "引取り方法"
+msgstr "引取 /  返却"
 
 #: includes/wc-coupon-functions.php:23
 msgid "Fixed cart discount"
@@ -25496,7 +25501,7 @@ msgstr "meta を追加"
 #: includes/admin/meta-boxes/views/html-order-items.php:31
 #: includes/admin/class-wc-admin-setup-wizard.php:866
 msgid "Cost"
-msgstr "金額"
+msgstr "　"
 
 #: includes/admin/meta-boxes/views/html-order-items.php:32
 #: templates/checkout/form-pay.php:28
